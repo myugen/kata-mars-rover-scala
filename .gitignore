@@ -1,0 +1,12 @@
+### Scala ###
+project/*
+!project/build.properties
+!project/plugins.sbt
+
+### SBT ###
+target/
+.bsp
+
+### IntelliJ IDEA ###
+.idea/*
+!.idea/codeStyles/
